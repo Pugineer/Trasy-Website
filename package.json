@@ -8,7 +8,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://github.com/Peachrara/Trasy-Website.git"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "@openarchitex/gatsby-theme-minimal-portfolio": "^1.0.2",
