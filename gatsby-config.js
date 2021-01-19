@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: "/my_project",
+    pathPrefix: "/Trasy-Website",
     siteMetadata: {
         // You can overwrite the following values or add new values and query them
         // The following three values are used in the SEO component
