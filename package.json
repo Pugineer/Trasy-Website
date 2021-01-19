@@ -5,6 +5,7 @@
   "version": "1.0.2",
   "author": "OpenArchitex <sudharakap@mun.ca>",
   "license": "MIT",
+  "homepage": "https://www.trasy.app/",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
